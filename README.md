@@ -19,24 +19,24 @@
 - Telegram Library: Telethon.
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaviyarasan-1997/project1)
 
 ### 🎯 Deploy on Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/kaviyarasan-1997/project1)
 
 ### 👉🏼 Credits and Other
-- [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-TEAM-NRD) for this Project ;)
+- [kaviyarasan](https://github.com/kaviyarasan-1997) for this Project ;)
 
 # Do not forget to follow me on Github 
 
-# [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲 ](https://github.com/SOCIAL-MECHANIC-1997)
+# [kaviyarasan ](https://github.com/kaviyarasan-1997)
 
 ## Support & Updates 
 <a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/social_mechanic"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-- [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://t.me/SOCIAL-MECHANIC) 👈🏼
+- [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://t.me/kaviyarasan_1997) 👈🏼
 - [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/eye_black_lover) 👈🏼
-- [𝘿𝙀𝙈𝙊](https://t.me/Nitro_mention_robot) 👈🏼
+- [𝘿𝙀𝙈𝙊](https://t.me/rhythm_mention_robot) 👈🏼
 </Details>
 
 <details>
@@ -76,13 +76,13 @@ to get pyrogram string session
 
 ### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mr-tamizlan/RHYTHM-MUSIC-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaviyarasan-1997/project2)
 
 # ᴄʀᴇᴀᴛᴇᴅ ʙʏ:
-# [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/social_mechanic_1997) 
+# [kaviyarasan](https://t.me/kaviyarasan_1997) 
 
 ᴄʜᴇᴄᴋ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ᴀɴᴅ ғᴏʟʟᴏᴡ ᴍᴇ 
-- [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://github.com/SOCIAL-MECHANIC-1997) 👈🏼
+- [kaviyarasan](https://github.com/kaviyarasan-1997) 👈🏼
 - [𝘿𝙀𝙈𝙊 𝘽𝙊𝙏](https://t.me/social_mechanic_music_bot) 👈🏼
 - [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/eye_black_lover) 👈🏼
 </Details>
