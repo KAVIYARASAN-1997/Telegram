@@ -89,5 +89,5 @@ to get pyrogram string session
 
 <Details>
 <Summary> Welcome Bot </summary>
-<a href="https://github.com/KAVIYARASAN-1997">welcome Bot</a>
+<a href="https://github.com/KAVIYARASAN-1997/project3">welcome Bot</a>
 </Details>
