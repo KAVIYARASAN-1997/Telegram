@@ -152,7 +152,8 @@ to get pyrogram string session
 
 </Details>
 
-</Details>
+
+<Details>
 <Summary> ANGEL MUSIC BOT </SUMMARY>
 
 ## ANGEL VC MUSIC
@@ -203,12 +204,14 @@ to get pyrogram string session
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaviyarasan-1997/ANGEL-VC-MUSIC)
 
 </details>
+
 <details>
-<summary>  Deploy To ʀᴀɪʟᴡᴀʏ </summary>
+<summary>Deploy To ʀᴀɪʟᴡᴀʏ </summary>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/kaviyarasan-1997/ANGEL-VC-MUSIC)
 
 </details>
+
 <details>
 <summary>  ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ </summary>
 
@@ -253,4 +256,5 @@ python3 main.py # Run the bot
 - [CONTRIBUTING](https://github.com/SOCIAL-MECHANIC-1997)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 </Details>
